@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliviguiho
 - 👀 I’m interested in web an app development
-- 🌱 I’m currently learning web developmen
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
